@@ -3,6 +3,7 @@
 ![Windsurf Demo](1c2d33c3cb34e7e38c5b61938abdc599.png)
 
 ## 简介
+软件完全免费！完全免费！！完全免费！！！
 XWindsurf VIP Free Tool 是一款批量注册与管理 Windsurf 账号的桌面应用。支持自动注册 PRO 账号、自动填写支付表单、读取与刷新 Credits、切换账号、重置机器码等功能，方便批量运维与测试。
 
 ## 功能亮点
@@ -22,3 +23,5 @@ XWindsurf VIP Free Tool 是一款批量注册与管理 Windsurf 账号的桌面�
 - 日志与诊断：
   - 集成日志面板
   - 附带多种诊断脚本，便于定位问题
+##下载请加群
+![QQ群](29516b2949a5c2353f86c3c300405142.jpg)
