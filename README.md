@@ -1,7 +1,7 @@
-# Windsurf VIP Free Tool
+# XWindsurf VIP Free Tool
 
 ## 简介
-Windsurf VIP Free Tool 是一款批量注册与管理 Windsurf 账号的桌面应用。支持自动注册 PRO 账号、自动填写支付表单、读取与刷新 Credits、切换账号、重置机器码等功能，方便批量运维与测试。
+XWindsurf VIP Free Tool 是一款批量注册与管理 Windsurf 账号的桌面应用。支持自动注册 PRO 账号、自动填写支付表单、读取与刷新 Credits、切换账号、重置机器码等功能，方便批量运维与测试。
 
 ## 功能亮点
 - 自动注册：
